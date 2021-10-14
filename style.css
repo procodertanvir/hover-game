@@ -1,0 +1,259 @@
+.mainDiv{
+    width: 1425px;
+    height: fit-content;
+    background: rgb(221, 208, 208);
+    display: inline-block;
+    margin: 20px;
+}
+
+.div1{
+    width: 200px;
+    height: 200px;
+    background: green;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background: orange;
+    display: inline-block;
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    display: inline-block;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    background: rgb(59, 134, 76);
+    display: inline-block;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: inline-block;
+}
+.div6{
+    width: 200px;
+    height: 200px;
+    background: rgb(52, 19, 68);
+    display: inline-block;
+}
+.div7{
+    width: 200px;
+    height: 200px;
+    background: rgb(170, 155, 155);
+    display: inline-block;
+}
+.div8{
+    width: 200px;
+    height: 200px;
+    background: rgb(90, 128, 150);
+    display: inline-block;
+}
+.div9{
+    width: 200px;
+    height: 200px;
+    background: rgba(0, 255, 0, 0.288);
+    display: inline-block;
+}
+.div10{
+    width: 200px;
+    height: 200px;
+    background: rgb(206, 145, 75);
+    display: inline-block;
+}
+.div11{
+    width: 200px;
+    height: 200px;
+    background: rgb(160, 93, 172);
+    display: inline-block;
+    margin-bottom: 50px;
+}
+.div12{
+    width: 200px;
+    height: 200px;
+    background: rgb(175, 231, 111);
+    display: inline-block;
+}
+.div13{
+    width: 200px;
+    height: 200px;
+    background: rgb(72, 97, 177);
+    display: inline-block;
+}
+.div14{
+    width: 200px;
+    height: 200px;
+    background: rgba(0, 255, 200, 0.329);
+    display: inline-block;
+}
+.div15{
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: inline-block;
+}
+.div16{
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 0, 200);
+    display: inline-block;
+}
+.div17{
+    width: 200px;
+    height: 200px;
+    background: rgb(174, 0, 255);
+    display: inline-block;
+}
+.div18{
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 251, 0);
+    display: inline-block;
+}
+.div19{
+    width: 200px;
+    height: 200px;
+    background: rgb(0, 47, 255);
+    display: inline-block;
+}
+.div20{
+    width: 200px;
+    height: 200px;
+    background: rgb(0, 255, 42);
+    display: inline-block;
+}
+.div21{
+    width: 200px;
+    height: 200px;
+    background: rgb(209, 128, 34);
+    display: inline-block;
+}
+
+/* Hover Effect */
+.div1:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div2:hover{
+    background: rgb(255, 251, 0);
+    transition: 0.9s;
+}
+.div3:hover{
+    background: rgb(105, 214, 83);
+    transition: 0.9s;
+}
+.div4:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div5:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div6:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div7:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div8:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div9:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div10:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div11:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div12:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div13:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div14:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div15:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div16:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div17:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div18:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div19:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div20:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+.div21:hover{
+    background: rgb(209, 128, 34);
+    transition: 0.9s;
+}
+
+
+/* Text Style */
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 40%;
+    font-size: 0px;
+}
+
+
+
+/* Text Hover Effect */
+.div1:hover h1{
+    font-size: 50px;
+    transition: .999s;
+}
+.div2:hover h1{font-size: 50px; transition: .999s;}
+.div3:hover h1{font-size: 50px; transition: .999s;}
+.div4:hover h1{font-size: 50px; transition: .999s;}
+.div5:hover h1{font-size: 50px; transition: .999s;}
+.div6:hover h1{font-size: 50px; transition: .999s;}
+.div7:hover h1{font-size: 50px; transition: .999s;}
+.div8:hover h1{font-size: 50px; transition: .999s;}
+.div9:hover h1{font-size: 50px; transition: .999s;}
+.div10:hover h1{font-size: 50px; transition: .999s;}
+.div11:hover h1{font-size: 50px; transition: .999s;}
+.div12:hover h1{font-size: 50px; transition: .999s;}
+.div13:hover h1{font-size: 50px; transition: .999s;}
+.div14:hover h1{font-size: 50px; transition: .999s;}
+.div15:hover h1{font-size: 50px; transition: .999s;}
+.div16:hover h1{font-size: 50px; transition: .999s;}
+.div17:hover h1{font-size: 50px; transition: .999s;}
+.div18:hover h1{font-size: 50px; transition: .999s;}
+.div19:hover h1{font-size: 50px; transition: .999s;}
+.div20:hover h1{font-size: 50px; transition: .999s;}
+.div21:hover h1{font-size: 50px; transition: .999s;}
